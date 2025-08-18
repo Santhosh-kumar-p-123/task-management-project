@@ -1,0 +1,197 @@
+{
+    "users": [
+        {
+            "user_id": 1754998119712,
+            "name": "santhosh",
+            "email": "santhosh@gmail.com",
+            "role": "developer",
+            "permissions": "granted"
+        },
+        {
+            "user_id": 1754998196317,
+            "name": "karthick",
+            "email": "karthick@gmail.com",
+            "role": "designer",
+            "permissions": "granted"
+        },
+        {
+            "user_id": 1755410859089,
+            "name": "parsanth",
+            "email": "santhoshvijaypeter@gmail.com",
+            "role": "role",
+            "permissions": "granted"
+        },
+        {
+            "user_id": 1755411188892,
+            "name": "suresh",
+            "email": "santhoshvijaypeter@gmail.com",
+            "role": "role",
+            "permissions": "granted"
+        },
+        {
+            "user_id": 1755420292009,
+            "name": "alex",
+            "email": "alexmovson@gmail.com",
+            "role": "designer",
+            "permissions": "granted"
+        },
+        {
+            "user_id": 1755423311841,
+            "name": "alex",
+            "email": "santhoshvijaypeter@gmail.com",
+            "role": "designer",
+            "permissions": "granted"
+        },
+        {
+            "user_id": 1755444243892,
+            "name": "arun",
+            "email": "santhoshvijaypeter@gmail.com",
+            "role": "designer",
+            "permissions": "granted"
+        },
+        {
+            "user_id": 1755444937809,
+            "name": "alex",
+            "email": "alexmovson@gmail.com",
+            "role": "designer",
+            "permissions": "granted"
+        },
+        {
+            "user_id": 1755445840911,
+            "name": "alex",
+            "email": "santhoshvijaypeter@gmail.com",
+            "role": "designer",
+            "permissions": "granted"
+        },
+        {
+            "user_id": 1755448140515,
+            "name": "santhosh_sandy",
+            "email": "santhoshvijaypeter@gmail.com",
+            "role": "member",
+            "permissions": "grandted"
+        },
+        {
+            "user_id": 1755491029588,
+            "name": "web design",
+            "email": null,
+            "role": "member",
+            "permissions": []
+        },
+        {
+            "user_id": 1755491802114,
+            "name": "santhosh_palaniyappan",
+            "email": "santhoshvijaypeter@gmail.com",
+            "role": "member",
+            "permissions": "grandted"
+        },
+        {
+            "user_id": 1755502937237,
+            "name": "santhosh_palaniyappan",
+            "email": "santhoshvijaypeter@gmail.com",
+            "role": "member",
+            "permissions": "grandted"
+        }
+    ],
+    "Project": [
+        {
+            "project_id": 1755080768354,
+            "name": "new project",
+            "description": "task management project",
+            "start_date": "2025-01-01",
+            "end_date": "2025-03-01",
+            "created_by": null,
+            "tasks": [
+                "task1"
+            ]
+        },
+        {
+            "project_id": 1755447207688,
+            "name": "web developement",
+            "description": "email ingration",
+            "start_date": "17-08-2025",
+            "end_date": "25-08-2025",
+            "created_by": "1755410017322",
+            "tasks": []
+        },
+        {
+            "project_id": 1755447569543,
+            "name": "web design",
+            "description": "email ingration",
+            "start_date": "17-08-2025",
+            "end_date": "25-08-2025",
+            "created_by": "1755410017322",
+            "tasks": []
+        },
+        {
+            "project_id": 1755491117266,
+            "name": "web design",
+            "description": "email ingration",
+            "start_date": "17-08-2025",
+            "end_date": "25-08-2025",
+            "created_by": "1755410017322",
+            "tasks": []
+        },
+        {
+            "project_id": 1755491527900,
+            "name": "web design",
+            "description": "email ingration",
+            "start_date": "17-08-2025",
+            "end_date": "25-08-2025",
+            "created_by": "1755410017322",
+            "tasks": []
+        },
+        {
+            "project_id": 1755491650304,
+            "name": "web design",
+            "description": "email ingration",
+            "start_date": "17-08-2025",
+            "end_date": "25-08-2025",
+            "created_by": "1755410859089",
+            "tasks": []
+        },
+        {
+            "project_id": 1755492356550,
+            "name": "appliction design",
+            "description": "email ingration",
+            "start_date": "17-08-2025",
+            "end_date": "25-08-2025",
+            "created_by": "1755410859089",
+            "tasks": []
+        },
+        {
+            "project_id": 1755493358829,
+            "name": "developer design",
+            "description": "email ingration",
+            "start_date": "17-08-2025",
+            "end_date": "25-08-2025",
+            "created_by": "1755410859089",
+            "tasks": []
+        }
+    ],
+    "Tasks": [
+        {
+            "task_id": 1755406964482,
+            "title": "frontend designing",
+            "description": "task management project",
+            "deadline": "5",
+            "status": "completed",
+            "assigned_to": "1754998119712",
+            "project_id": 1755080768354,
+            "dependencies": [],
+            "time_spent_hours": 24,
+            "priority": "High",
+            "update_at": "2025-08-17T10:17T10:42:1755407561"
+        },
+        {
+            "task_id": 1755407511259,
+            "title": "frontend designing",
+            "description": "",
+            "deadline": "5",
+            "status": "completed",
+            "assigned_to": "1754998119712",
+            "project_id": 1755080768354,
+            "dependencies": [],
+            "time_spent_hours": 24
+        }
+    ]
+}
