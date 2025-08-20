@@ -30,10 +30,10 @@ class NotificationController:
         body = f"Hello {user['name']},\nYour account has been created successfully!"
         self.send_email(user["email"], subject, body)
 
-    # def notify_project_created(self,user,project):
-    #     subject = "Welcome to Task Management System"
-    #     body = f"hello {user['name']},\nYour {project['name']}Project created successfully"
-    #     self.send_email(user['email'],subject,body)
+    def notify_project_created(self,user,project):
+        subject = "Welcome to Task Management System"
+        body = f"hello {user['name']},\nYour {project['name']}Project created successfully"
+        self.send_email(user['email'],subject,body)
 
 
 

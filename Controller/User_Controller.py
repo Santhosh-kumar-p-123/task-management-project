@@ -85,6 +85,7 @@ class User_Controller:
         self.write_data(data)
 
         return jsonify({"message":"user deleted successfully", "removed_user" :removed_user }),200
+    ixpu3xMin6aCIzrlUi+gbsF950A0A15pxz2opx4Bl64
     
     
     
